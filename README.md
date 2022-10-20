@@ -1,0 +1,1 @@
+# build-aseprite-v1.6-beta6
